@@ -83,6 +83,13 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "O que é Data Science?",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/5b9Z8toVaAU",
+      "imagem": "https://i.ytimg.com/vi/5b9Z8toVaAU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdx8kzlNWafBykXoEw4Zc66h9d-Q",
+      "id": 13
     }
   ]
 }
